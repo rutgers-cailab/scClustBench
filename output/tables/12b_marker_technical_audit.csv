@@ -1,0 +1,7 @@
+"cluster","top_n","sex","stress_IEG","ribosomal","nuclear_lnc","any_technical_pct","tech_share_of_specificity","top10"
+1,50,4,0,0,8,12,64.1,"Xist;Tsix;Mir124a-1hg;Malat1;Gm19667;Rpgrip1;AC160336.1;Dmd;AC149090.1;Gm14508"
+1,200,1,0,0,3.5,4.5,64.1,"Xist;Tsix;Mir124a-1hg;Malat1;Gm19667;Rpgrip1;AC160336.1;Dmd;AC149090.1;Gm14508"
+2,50,0,0,0,2,2,2.9,"Sgk1;Gm8797;Hmgb2;Elovl4;Hist1h2bc;Actb;Cnbp;Gapdh;Anp32e;Arl6"
+2,200,0,0.5,9,0.5,10,9.5,"Sgk1;Gm8797;Hmgb2;Elovl4;Hist1h2bc;Actb;Cnbp;Gapdh;Anp32e;Arl6"
+3,50,0,0,46,0,46,45.9,"Cpe;Clstn1;Eef2;Uba52;Fau;Rps4x;Zfp385a;Cdhr1;Rpl35;Rpl28"
+3,200,0,0,38,0,38,40.5,"Cpe;Clstn1;Eef2;Uba52;Fau;Rps4x;Zfp385a;Cdhr1;Rpl35;Rpl28"

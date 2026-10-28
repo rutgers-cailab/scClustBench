@@ -1,0 +1,35 @@
+cluster,cell_type,evidence
+0,Rods,"Rho 98%, Sag 100%, Gnat1 88%"
+1,Rods,rod panel score 1.05
+2,Rods,rod panel score 0.91
+3,Rods,rod panel score 1.33
+4,Rods,rod panel score 1.17
+5,Muller Glia,Muller panel score 1.88
+6,Rods,rod panel score 1.23
+7,BC,"Vsx2 99%, Prkca 100%, Grm6 94%"
+8,Rods,rod panel score 1.51
+9,Cones,cone panel score 1.50
+10,Rods,rod panel score 0.94
+11,AC,"amacrine: Slc6a9 76%, Slc32a1 65%, Pax6 80%; top markers Prdm13, Ebf3, Tfap2c, Glra2; Pou4f1/2 and Rbpms <= 1%"
+12,Cones,cone panel score 1.34
+13,BC,"Grm6 52%, Otx2 64%, Vsx2 47%, Scgn 26% (with ambient rod transcripts)"
+14,Rods,rod panel score 1.35
+15,BC,BC panel score 0.52
+16,BC,BC panel score 0.35
+17,Muller Glia,"Rlbp1 52%, Glul 64%, Apoe 57%, Aqp4 20%; top markers Cryab, Glul, Dbi, Rlbp1, Vim; rod transcripts and low UMI (median 853) suggest rod-Muller doublets, kept out of the rod population"
+18,Rods,rod panel score 1.77
+19,BC,BC panel score 0.43
+20,BC,BC panel score 0.39
+21,Muller Glia,Muller panel score 0.39
+22,RGC/Neuron,"Nefl 57%; top markers Sncg, Prph, Nrn1, Stmn2; RGC panel score highest (0.16); low UMI (median 613)"
+23,BC,BC panel score 0.29
+24,RPE,RPE panel score 1.05 (Rpe65/Mlana)
+25,BC,BC panel score 0.22
+26,AC,"GABAergic amacrine: Gad1 78%, Gad2 64%, C1ql2 61%; Pou4f1/2 and Rbpms <= 2%"
+27,BC,BC panel score 0.42
+28,AC,"glycinergic amacrine: Slc6a9 96%, Slc32a1 74%"
+29,Rods,rod panel score 0.87
+30,Rods,rod panel score 2.02
+31,Microglia,microglia panel score 1.28
+32,Muller Glia,Muller panel score 2.22
+33,Cones,"cone panel score 1.66; also bipolar markers (Hcn4, Erbb4, Irx6) at twice the usual UMI depth (median 17,382): likely cone-bipolar doublets, kept out of the bipolar population"

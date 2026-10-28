@@ -1,0 +1,2 @@
+"norm","distance","method","target_k","actual_k","balance","jacc_min","marker_spec","rogue","silhouette","sizes_str","ari","nmi","smallest","valid","stable","admissible","score","rank"
+"SCT","euclidean","pca_louvain",5,5,0.418056468665044,0.948685938046716,0.6550688448855,NA,0.542499827533046,"37705/10356/4848/2852/518",0.933069555566563,0.79742227683167,518,TRUE,TRUE,TRUE,0.8,1

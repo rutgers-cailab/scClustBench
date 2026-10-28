@@ -1,0 +1,12 @@
+"population","k_star","method","target_k","jacc_min","smallest","score","ari"
+"Phase1_all",6,"PCA_Leiden",6,0.8533,515,0.7,0.9616
+"baron_beta pca_perturb",2,"pca_kmeans",2,0.979130462622091,1115,0.8,0.14584458199628
+"baron_pancreas pca_perturb",9,"pca_leiden",9,0.991769547325103,107,0.8,0.934621484167752
+"kotliarov_pbmc pca_perturb",3,"pca_leiden",3,0.996465538008594,1338,0.733333333333333,0.738471585790231
+"shekhar_bc pca_perturb",9,"pca_louvain",9,0.984118241565326,344,0.8,0.945131141653203
+"stoeckius_hek pca_perturb",2,"pca_louvain",2,0.985292985292985,137,0.7,-0.000222662043092998
+"stoeckius_lines pca_perturb",5,"pca_kmeans",5,0.982544475933919,437,0.8,0.912799460416193
+"baron_pancreas scdha",10,"pca_louvain",10,0.628885575032279,71,1,0.928984444108411
+"kotliarov_pbmc scdha",3,"pca_leiden",3,0.996465538008594,1338,0.733333333333333,0.738471585790231
+"shekhar_bc scdha",2,"pca_kmeans",2,1,7058,0.866666666666667,0.483441776119791
+"stoeckius_lines scdha",4,"pca_leiden",4,0.964761422871168,1228,0.733333333333333,0.969464329000129

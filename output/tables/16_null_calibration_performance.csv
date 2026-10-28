@@ -1,0 +1,9 @@
+"embedding","tau","calibrated","sensitivity","specificity","k_star_correct","n_null","n_structured"
+"pca_perturb",0.75,FALSE,1,1,0.9375,20,16
+"pca_perturb",0.8,FALSE,1,1,0.9375,20,16
+"pca_perturb",0.85,FALSE,1,1,0.9375,20,16
+"pca_perturb",0.105,TRUE,1,0.95,0.9375,20,16
+"scdha",0.75,FALSE,0.8125,0.75,0.538461538461538,20,16
+"scdha",0.8,FALSE,0.75,1,0.583333333333333,20,16
+"scdha",0.85,FALSE,0.75,1,0.583333333333333,20,16
+"scdha",0.7556,TRUE,0.8125,0.95,0.538461538461538,20,16

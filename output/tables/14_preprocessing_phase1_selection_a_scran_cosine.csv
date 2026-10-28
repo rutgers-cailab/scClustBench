@@ -1,0 +1,2 @@
+"norm","distance","method","target_k","actual_k","balance","jacc_min","marker_spec","rogue","silhouette","sizes_str","ari","nmi","smallest","valid","stable","admissible","score","rank"
+"scran","cosine","pca_louvain_cosine",2,6,0.23658025195899,5.50630051160854e-05,0.687956405217626,NA,-0.330992401680826,"45002/10762/509/2/2/2",0.572230479686734,0.429508350176443,2,FALSE,FALSE,FALSE,NA,NA

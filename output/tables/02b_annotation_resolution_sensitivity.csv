@@ -1,0 +1,6 @@
+"resolution","n_clusters","auto_pct_vs_auto0.6","auto_ari_vs_auto0.6","auto_pct_vs_canonical","auto_ari_vs_canonical","major_pct_vs_major0.6","major_ari_vs_major0.6","major_pct_vs_canonical","major_ari_vs_canonical","n_types_recovered_major"
+0.2,20,99.97,0.9991,98.52,0.9564,99.97,0.9992,99.97,0.9992,8
+0.4,26,99.98,0.9993,98.53,0.9567,99.98,0.9994,99.98,0.9994,8
+0.6,34,100,1,98.55,0.9572,100,1,100,1,8
+0.8,39,98.54,0.9569,99.99,0.9997,99.99,0.9997,99.99,0.9997,8
+1,41,98.54,0.9569,99.99,0.9997,99.99,0.9997,99.99,0.9997,8

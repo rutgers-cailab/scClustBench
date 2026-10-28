@@ -1,0 +1,13 @@
+"celltype","norm","distance","verdict","k_star","k_star_smallest","k_star_at_edge","max_R","max_R_ungated","n_valid_k","k_first_tau","k_above_tau","rho_R_k","rho_sil_k","tau"
+"BC","LogNormalize","cosine","ACCEPT",4,4,FALSE,0.9875,0.9875,7,3,"3,4,7,10,12",0.571,1,0.8
+"BC","LogNormalize","euclidean","ACCEPT",2,2,FALSE,0.9903,0.9903,7,2,"2,5,12,13",-0.107,1,0.8
+"BC","scran","cosine","ACCEPT",4,4,FALSE,0.9261,0.9502,8,4,"4,13",0.595,1,0.8
+"BC","scran","euclidean","ACCEPT",15,14,FALSE,0.9414,0.9414,9,3,"3,10,12,13,14,15",0.8,0.9,0.8
+"BC","SCT","cosine","ACCEPT",16,16,FALSE,0.9454,0.9526,8,10,"10,11,12,16",0.952,0.857,0.8
+"BC","SCT","euclidean","ACCEPT",11,11,FALSE,0.8866,0.958,6,11,"11",1,1,0.8
+"Rods","LogNormalize","cosine","REJECT",NA,NA,FALSE,NA,0.0764,0,NA,"",NA,NA,0.8
+"Rods","LogNormalize","euclidean","REJECT",NA,NA,FALSE,0.4824,0.6492,1,NA,"",NA,NA,0.8
+"Rods","scran","cosine","REJECT",NA,NA,FALSE,NA,0.0648,0,NA,"",NA,NA,0.8
+"Rods","scran","euclidean","REJECT",NA,NA,FALSE,NA,0.3889,0,NA,"",NA,NA,0.8
+"Rods","SCT","cosine","REJECT",NA,NA,FALSE,NA,0.7746,0,NA,"",NA,NA,0.8
+"Rods","SCT","euclidean","ACCEPT",4,4,FALSE,0.8331,0.8331,3,4,"4",0.5,-1,0.8

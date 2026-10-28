@@ -1,0 +1,6 @@
+"metric","threshold","cells_before","cells_after"
+"nCount_RNA","400-80000",62716,56279
+"nFeature_RNA","400-8000",62716,56279
+"percent.mt","<18",62716,56279
+"percent.hb","<0.3",62716,56279
+"gene_min_cells",">=5",62716,56279

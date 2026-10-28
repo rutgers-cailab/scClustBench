@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use scClustBench, please cite the paper below."
+title: "scClustBench"
+type: software
+license: MIT
+repository-code: "https://github.com/rutgers-cailab/scClustBench"
+authors:
+  - family-names: Yousef
+    given-names: Zachary
+  - family-names: Simone
+    given-names: Jonah
+  - family-names: Klein
+    given-names: Dylan
+  - family-names: Cho
+    given-names: Heejoo
+  - family-names: Bhuyan
+    given-names: Avinav
+  - family-names: Bhatt
+    given-names: Priya
+  - family-names: Wu
+    given-names: Jiawei
+  - family-names: Wang
+    given-names: Hongyi
+  - family-names: Cai
+    given-names: Li
+    email: lcai@rutgers.edu
+preferred-citation:
+  type: article
+  title: "A Label-Free Multi-Metric Pipeline for Benchmarking Single-Cell RNA-Sequencing Clustering and Testing the Reproducibility of Cell-Type Heterogeneity"
+  authors:
+    - family-names: Yousef
+      given-names: Zachary
+    - family-names: Simone
+      given-names: Jonah
+    - family-names: Klein
+      given-names: Dylan
+    - family-names: Cho
+      given-names: Heejoo
+    - family-names: Bhuyan
+      given-names: Avinav
+    - family-names: Bhatt
+      given-names: Priya
+    - family-names: Wu
+      given-names: Jiawei
+    - family-names: Wang
+      given-names: Hongyi
+    - family-names: Cai
+      given-names: Li

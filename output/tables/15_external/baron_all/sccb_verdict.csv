@@ -1,0 +1,3 @@
+"embedding","verdict","k_star","max_R","k_first_tau","rho_R_k","rho_sil_k","tau"
+"scdha","ACCEPT",8,0.9839,6,0.484,0.143,0.8
+"pca_perturb","ACCEPT",9,0.9837,5,0.4,0.236,0.8

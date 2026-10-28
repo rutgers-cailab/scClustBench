@@ -1,0 +1,2 @@
+"verdict","k_star","method","score","note"
+"REJECT",NA,NA,NA,"no reproducible sub-structure; report as one group repro embeddings disagree: see res$verdict"

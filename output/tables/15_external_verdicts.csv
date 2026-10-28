@@ -1,0 +1,13 @@
+"dataset","n_cells","n_true","embedding","verdict","k_star","k_star_smallest","k_star_at_edge","max_R","max_R_ungated","n_valid_k","k_first_tau","k_above_tau","rho_R_k","rho_sil_k","tau","ari_at_k_star"
+"baron_beta",2525,4,"pca_perturb","ACCEPT",2,2,FALSE,0.8698,0.8698,4,2,"2",-0.4,-0.4,0.8,-0.0015
+"baron_beta",2525,4,"scdha","REJECT",NA,NA,FALSE,0.3596,0.3596,4,NA,NA,0.2,-0.8,0.8,NA
+"baron_pancreas",8569,14,"pca_perturb","ACCEPT",9,9,FALSE,0.9837,0.9837,8,5,"5,6,9,13",0.571,0.429,0.8,0.9359
+"baron_pancreas",8569,14,"scdha","ACCEPT",10,8,FALSE,0.9839,0.9839,7,7,"7,8,9,10,11",0.643,0.429,0.8,0.9274
+"kotliarov_pbmc",12000,4,"pca_perturb","ACCEPT",3,2,FALSE,0.9968,0.9968,7,2,"2,3,4,6,10",-0.75,-0.929,0.8,0.7346
+"kotliarov_pbmc",12000,4,"scdha","ACCEPT",3,3,FALSE,0.9958,0.9958,6,3,"3,4,5,6,7,8",-0.657,0.657,0.8,0.7091
+"shekhar_bc",15000,14,"pca_perturb","ACCEPT",9,2,FALSE,0.9872,0.9872,8,2,"2,3,5,7,9,13,15,16",-0.5,-0.167,0.8,0.9493
+"shekhar_bc",15000,14,"scdha","ACCEPT",2,2,FALSE,0.9881,0.9881,6,2,"2,3,4,5,8,10",0.086,0.143,0.8,0.4864
+"stoeckius_hek",1936,3,"pca_perturb","ACCEPT",2,2,FALSE,0.9681,0.9681,2,2,"2,3",NA,NA,0.8,-1e-04
+"stoeckius_hek",1936,3,"scdha","REJECT",NA,NA,FALSE,0.0611,0.0611,5,NA,"",-1,1,0.8,NA
+"stoeckius_lines",6657,4,"pca_perturb","ACCEPT",5,2,FALSE,0.9989,0.9989,5,2,"2,4,5,7",-0.4,0.1,0.8,0.9528
+"stoeckius_lines",6657,4,"scdha","ACCEPT",4,2,FALSE,0.9977,0.9977,3,2,"2,4",-0.5,1,0.8,0.9839
